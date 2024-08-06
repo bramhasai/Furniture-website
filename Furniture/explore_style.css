@@ -1,0 +1,35 @@
+img{
+    width: 3rem;
+    height: 3rem;
+}
+
+header{
+    background-color: #ecc182;
+}
+.explore_one{
+    margin: 1rem;
+    padding: 0.5rem;
+}
+.explore_one .left .sub_left img{
+    height: 5rem;
+    width: 5rem;
+}
+
+.explore_one .left .sub_left .main_images{
+    height: 6rem;
+    width: 6rem;
+    background-color: #ecc182;
+    margin-top: 1rem;
+}
+
+.explore_one .left .sub_left{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.sub_right img{
+    width: 10rem;
+    height: 10rem;
+}
